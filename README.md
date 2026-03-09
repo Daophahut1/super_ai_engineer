@@ -1,4 +1,4 @@
-# super_ai_engineer ss6
+# Super AI Engineer SS6
 
 ### Tutorial: Vibecode: Data Cleansing, EDA, and Data Visualization
 - [class 1: Data Wrangling & EDA with Pandas](https://github.com/Daophahut1/super_ai_engineer/blob/main/class_1_Data_Wrangling_%26_EDA_with_Pandas.ipynb)
