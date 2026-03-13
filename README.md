@@ -7,7 +7,13 @@
 - [Dataset](https://github.com/Daophahut1/super_ai_engineer/blob/main/data%209-3-2026.zip)
 
 ### Tutorial: From Data to Model Pipeline with Machine Learning
-
+- [Colab](https://colab.research.google.com/drive/1nOr5OM3afIttb53rLzavhYIeZ7LfvyvF)
+- [PDF](https://drive.google.com/file/d/1ixZOMJw488lezzkvPnMKu5_elzPIEQkR/view?usp=sharing)
+#### Additional
+- https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Playing_with_Titanic_Dataset.ipynb
+- https://colab.research.google.com/drive/1iIVOTFi7pue23AhdWF1gnpqpynX6nAUJ?usp=sharing
+- https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/
+- https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/
 ### Hackathon-Data Cleansing Challenge
 
 ### THackle Tutorial and Looking into Open Thai Data: Modeling, Insight & Story Telling
