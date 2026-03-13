@@ -14,6 +14,10 @@
 - https://colab.research.google.com/drive/1iIVOTFi7pue23AhdWF1gnpqpynX6nAUJ?usp=sharing
 - https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/
 - https://www.geeksforgeeks.org/data-analysis/exploratory-data-analysis-in-python/
+  
 ### Hackathon-Data Cleansing Challenge
+- [PDF](https://drive.google.com/file/d/1WoV80jT3kwrnL1xfb9VJor0J1m5mu1ZT/view?usp=sharing)
+- https://www.thackle.or.th/
 
 ### THackle Tutorial and Looking into Open Thai Data: Modeling, Insight & Story Telling
+- [Data Storytelling - Open Data](https://drive.google.com/file/d/1Qfo0rJlLp-8U4500WGUaSVdAdGGEUlKP/view?usp=sharing)
