@@ -5,10 +5,12 @@
 - [class 1: Data Wrangling & EDA with Pandas](https://github.com/Daophahut1/super_ai_engineer/blob/main/class_1_Data_Wrangling_%26_EDA_with_Pandas.ipynb)
 - [class 2: Effective Data Visualization in Data Science](https://github.com/Daophahut1/super_ai_engineer/blob/main/class_2_Effective_Data_Visualization_in_Data_Science.ipynb)
 - [Dataset](https://github.com/Daophahut1/super_ai_engineer/blob/main/data%209-3-2026.zip)
+- [Video](https://mysuperai.aiat.or.th/watch/week1-data-1)
 
 ### Tutorial: From Data to Model Pipeline with Machine Learning
 - [Colab](https://colab.research.google.com/drive/1nOr5OM3afIttb53rLzavhYIeZ7LfvyvF)
 - [PDF](https://drive.google.com/file/d/1ixZOMJw488lezzkvPnMKu5_elzPIEQkR/view?usp=sharing)
+- [Video](https://mysuperai.aiat.or.th/watch/week1-data-2)
 #### Additional
 - https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Playing_with_Titanic_Dataset.ipynb
 - https://colab.research.google.com/drive/1iIVOTFi7pue23AhdWF1gnpqpynX6nAUJ?usp=sharing
@@ -18,6 +20,10 @@
 ### Hackathon-Data Cleansing Challenge
 - [PDF](https://drive.google.com/file/d/1WoV80jT3kwrnL1xfb9VJor0J1m5mu1ZT/view?usp=sharing)
 - https://www.thackle.or.th/
-
+- [Video](https://mysuperai.aiat.or.th/watch/week1-announce-hackathon)
+#### Submit
+- [ ] Colab 
+- [ ] Video
 ### THackle Tutorial and Looking into Open Thai Data: Modeling, Insight & Story Telling
 - [Data Storytelling - Open Data](https://drive.google.com/file/d/1Qfo0rJlLp-8U4500WGUaSVdAdGGEUlKP/view?usp=sharing)
+- [Video](https://mysuperai.aiat.or.th/watch/week1-announce-hackathon)
