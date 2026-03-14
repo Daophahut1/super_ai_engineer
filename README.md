@@ -1,6 +1,9 @@
 # Super AI Engineer SS6
 
 ## Theme: Data
+>เริ่มต้นสัปดาห์แรกมาในธีม DATA
+>มาเรียนรู้การทำงานกับข้อมูลเพื่อสร้างพื้นฐานของ AI ที่ทุกคนต้องเข้าใจ
+
 ### Tutorial: Vibecode: Data Cleansing, EDA, and Data Visualization
 - [class 1: Data Wrangling & EDA with Pandas](https://github.com/Daophahut1/super_ai_engineer/blob/main/class_1_Data_Wrangling_%26_EDA_with_Pandas.ipynb)
 - [class 2: Effective Data Visualization in Data Science](https://github.com/Daophahut1/super_ai_engineer/blob/main/class_2_Effective_Data_Visualization_in_Data_Science.ipynb)
@@ -27,3 +30,16 @@
 ### THackle Tutorial and Looking into Open Thai Data: Modeling, Insight & Story Telling
 - [Data Storytelling - Open Data](https://drive.google.com/file/d/1Qfo0rJlLp-8U4500WGUaSVdAdGGEUlKP/view?usp=sharing)
 - [Video](https://mysuperai.aiat.or.th/watch/week1-announce-hackathon)
+--------------------------------
+## Theme: AI Model
+>เตรียมตัวมาเรียนรู้ทำความเข้าใจการสร้างและพัฒนาโมเดล AI ไปพร้อมกัน
+
+### Tutorial: Intro to Computer vision & Image Processing
+
+### Tutorial: Vision Modelling & Image Application in Deep Learning
+
+### Hack Tutorial: CV Challenge: Getting start to Agentic Pipeline
+
+### Agentic Pipline Hackathon
+
+### Pitching (Zoom Online)
