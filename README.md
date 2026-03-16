@@ -35,6 +35,7 @@
 >เตรียมตัวมาเรียนรู้ทำความเข้าใจการสร้างและพัฒนาโมเดล AI ไปพร้อมกัน
 
 ### Tutorial: Intro to Computer vision & Image Processing
+- https://colab.research.google.com/drive/1jyf-PFonHD3SMC8_DZR1hbOcoFcZqemd?usp=sharing
 
 ### Tutorial: Vision Modelling & Image Application in Deep Learning
 
