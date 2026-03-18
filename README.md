@@ -39,6 +39,8 @@
 
 ### Tutorial: Vision Modelling & Image Application in Deep Learning
 - https://drive.google.com/drive/folders/1f5OVmKiHJF31XDNQyAhn7HCAFIz6dpda
+- https://colab.research.google.com/drive/1F6MV4MKcScO2n9Pt0JDQILhQDUP5zOt3?usp=sharing
+- https://colab.research.google.com/drive/1KieiTlzcvsGtycrNwUVB-jtKn5C_wFEH?usp=sharing
 
 ### Hack Tutorial: CV Challenge: Getting start to Agentic Pipeline
 
