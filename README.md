@@ -45,5 +45,6 @@
 ### Hack Tutorial: CV Challenge: Getting start to Agentic Pipeline
 
 ### Agentic Pipline Hackathon
+- [Super AI Engineer Season 6] การแข่งขัน OCR เอกสารผลเลือกตั้ง สส. 2569 - https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569/overview
 
 ### Pitching (Zoom Online)
