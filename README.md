@@ -25,8 +25,8 @@
 - https://www.thackle.or.th/
 - [Video](https://mysuperai.aiat.or.th/watch/week1-announce-hackathon)
 #### Submit
-- [ ] Colab 
-- [ ] Video
+- [X] Colab https://colab.research.google.com/drive/1dM-B6Tmy8XUH7rlQXUhVp7nSUceg-n4G#scrollTo=42b79063
+- [X] Video
 ### THackle Tutorial and Looking into Open Thai Data: Modeling, Insight & Story Telling
 - [Data Storytelling - Open Data](https://drive.google.com/file/d/1Qfo0rJlLp-8U4500WGUaSVdAdGGEUlKP/view?usp=sharing)
 - [Video](https://mysuperai.aiat.or.th/watch/week1-announce-hackathon)
