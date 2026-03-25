@@ -50,3 +50,19 @@
 - [Super AI Engineer Season 6] การแข่งขัน OCR เอกสารผลเลือกตั้ง สส. 2569 - https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569/overview
 
 ### Pitching (Zoom Online)
+- https://mysuperai.aiat.or.th/watch/pitching2
+
+  ---------------------------
+## Theme: LLM & RAG
+>มาเจาะลึกการพัฒนา Large Language Models และระบบ Retrieval-Augmented Generation เพื่อยกระดับความสามารถของ AI
+
+### Tutorial: AI Encoding Language: the Approach to NLP
+- https://mysuperai.aiat.or.th/watch/aiencoding
+
+### Tutorial: Intro to LLM & Generative AI: Use Cases & Business Challenges
+- https://www.canva.com/design/DAHDz30I7m0/EW049v1-UxHPbod8syoyWw/view?utlId=h70eaa84e44#40
+- https://colab.research.google.com/drive/1EThAg4LYS38xwJoev7i0DrA6V0UulOMf?usp=sharing
+- https://colab.research.google.com/drive/114EguXQO9SZmSEH867Mpb2LahFLluD5i?usp=sharing
+
+
+
