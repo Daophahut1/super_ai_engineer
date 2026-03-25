@@ -43,6 +43,8 @@
 - https://colab.research.google.com/drive/1KieiTlzcvsGtycrNwUVB-jtKn5C_wFEH?usp=sharing
 
 ### Hack Tutorial: CV Challenge: Getting start to Agentic Pipeline
+- https://drive.google.com/drive/folders/1SDCq350c4v6DLpYNbS3Zw5IVOTl-K6cg
+- https://mysuperai.aiat.or.th/watch/cv-challenge
 
 ### Agentic Pipline Hackathon
 - [Super AI Engineer Season 6] การแข่งขัน OCR เอกสารผลเลือกตั้ง สส. 2569 - https://www.kaggle.com/competitions/super-ai-engineer-season-6-ocr-2569/overview
