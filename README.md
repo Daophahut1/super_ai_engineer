@@ -64,5 +64,13 @@
 - https://colab.research.google.com/drive/1EThAg4LYS38xwJoev7i0DrA6V0UulOMf?usp=sharing
 - https://colab.research.google.com/drive/114EguXQO9SZmSEH867Mpb2LahFLluD5i?usp=sharing
 
+### RAG Hackathon
+- https://drive.google.com/drive/folders/13h6u0mWOFwZKioanrocN9WhDAhC-tQjf
+#### Submit
+- [X] Colab
+
+### Hack Tutorial: The Unknowed RAG: Implication & Implementation
+- https://drive.google.com/drive/folders/13h6u0mWOFwZKioanrocN9WhDAhC-tQjf
+- https://www.kaggle.com/competitions/super-ai-engineer-s-6-fah-mai-rag-challenge-level-1/data
 
 
