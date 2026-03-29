@@ -67,7 +67,7 @@
 ### RAG Hackathon
 - https://drive.google.com/drive/folders/13h6u0mWOFwZKioanrocN9WhDAhC-tQjf
 #### Submit
-- [X] Colab
+- [X] Colab https://colab.research.google.com/drive/1nRH_1LbnaSlYaXW_Ooz03Xu3DXHAGLYK#scrollTo=sp58hm2fyyo
 
 ### Hack Tutorial: The Unknowed RAG: Implication & Implementation
 - https://drive.google.com/drive/folders/13h6u0mWOFwZKioanrocN9WhDAhC-tQjf
