@@ -72,5 +72,12 @@
 ### Hack Tutorial: The Unknowed RAG: Implication & Implementation
 - https://drive.google.com/drive/folders/13h6u0mWOFwZKioanrocN9WhDAhC-tQjf
 - https://www.kaggle.com/competitions/super-ai-engineer-s-6-fah-mai-rag-challenge-level-1/data
-
-
+---------------------------------
+## Mini - Hackathon 5 ด้าน
+>https://docs.google.com/presentation/d/1JA6_FyuTLFPnC1lLG7a8fBrph-iOBP3V/edit?slide=id.g32cd0a3bdd9_0_344#slide=id.g32cd0a3bdd9_0_344
+- [Super AI Engineer SS6 : House Recognition](https://www.kaggle.com/competitions/super-ai-engineer-season-6-individual-hackathon-house-recognition/overview)
+- [Super AI Engineer SS6 : Word Segmentation](https://www.kaggle.com/competitions/super-ai-engineer-ss-6-word-segmentation/overview)
+- [Super AI Engineer SS6 : Sleep Stage Classification](https://www.kaggle.com/competitions/super-ai-engineer-ss-6-sleep-stage-classification/overview)
+- [Super AI Engineer SS6 : Thai Language Image Captioning](https://www.kaggle.com/competitions/super-ai-engineer-ss-6-thai-language-image-captioning/overview)
+- [Super AI Engineer SS6 : Heart Disease Prediction](https://www.kaggle.com/competitions/super-ai-engineer-ss-6-heart-disease-prediction)
+  - [x] [Colab](https://colab.research.google.com/drive/1nIT7Xx4miY8PRdO5swAA_UZgeQBVR5tQ?usp=sharing)
